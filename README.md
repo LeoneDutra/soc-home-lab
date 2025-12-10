@@ -11,3 +11,16 @@ A practical learning environment focused on SOC operations, monitoring, log anal
 - Packet capture and analysis exercises
 
 ## 📂 Repository Structure
+- logs/
+- detections/
+- ir-cases/
+- pcap-analysis/
+- notes/
+
+## 🎯 Objectives
+- Develop Blue Team foundations  
+- Practice analysis and incident documentation  
+- Build a portfolio demonstrating defensive security skills  
+
+## 📝 Notes
+No real or sensitive data is included. All logs are generated for educational purposes.
