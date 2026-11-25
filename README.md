@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> **This repository has moved.** Its content was consolidated into:> 
+> - **[LeoneDutra/security-homelab](https://github.com/LeoneDutra/security-homelab)**
+> - **[LeoneDutra/detection-engineering-lab](https://github.com/LeoneDutra/detection-engineering-lab)**
+>
+> This repo is archived and kept only for history.
+
+---
+
 
 # SOC Home Lab
 
