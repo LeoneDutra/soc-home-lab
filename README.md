@@ -1,5 +1,6 @@
 > [!IMPORTANT]
-> **This repository has moved.** Its content was consolidated into:> 
+> **This repository has moved.** Its content was consolidated into:
+>
 > - **[LeoneDutra/security-homelab](https://github.com/LeoneDutra/security-homelab)**
 > - **[LeoneDutra/detection-engineering-lab](https://github.com/LeoneDutra/detection-engineering-lab)**
 >
